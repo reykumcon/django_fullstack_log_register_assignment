@@ -1,0 +1,27 @@
+* {
+    /* outline: 1px dotted blue; */
+}
+
+.container {
+    margin-top: 30px;
+}
+
+input[type="submit"] {
+    display: block;
+    margin: 0px auto;
+}
+
+h2 {
+    padding: 10px 0px;
+}
+
+.col ul {
+    display: block;
+    margin: 0px auto;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+    text-align: right;
+}
